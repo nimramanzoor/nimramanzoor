@@ -7,7 +7,7 @@
 
 <br/>
 
-**🛡️ Blue Team Security | 🔐 Post-Quantum Cryptography | 🧠 AI/ML | 💻 Frontend Dev**
+**🛡️  CyberSecurity | Defender | 💻 Full stack Developer
 
 <br/>
 
@@ -23,12 +23,12 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 Final-year B.S. Information Technology student at **University of Agriculture Faisalabad (UAF)** | CGPA: **3.82** 
-* 🛡️ Specializing in **Blue Team Defense, Network Security, and Post-Quantum Cryptography**
+* 🎓 Final-year B.S. Information Technology student at **University of Agriculture Faisalabad (UAF)** 
+* 🛡️ Specializing in **Blue Team Defense, Network Security, and AI**
 * 🏆 **Honhaar Scholar** & Prime Minister Merit Laptop Recipient
 * 🕵️‍♀️ Active in **Capture The Flag (CTF)** challenges (Cryptography, Web Exploitation, Binary Analysis)
 * 🧠 Secondary focus on integrating AI/ML with security (Deep Learning, PyTorch, Adversarial ML)
-* 💼 Practical experience managing secure WordPress e-commerce architectures (ÉFFIANEL)
+* 💼 Practical experience managing secure e-commerce architectures 
 * 📍 Based in Faisalabad, Pakistan PK
 
 <br/>
@@ -61,10 +61,9 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🛡️ **[Shadow AI Detector](https://github.com/nimramanzoor/shadow-ai-detector)** | Lightweight Python utility to parse network proxy logs and detect unauthorized GenAI usage & data exfiltration. | Python, Regex, JSON Parsing |
-| 🤖 **Agent Guard** | AI-integrated cybersecurity Final Year Project focusing on proactive threat detection and defense. | Python, Machine Learning, SIEM |
 | 🔐 **CodeAlpha Secure Coding** | Phishing awareness and Python secure coding review (vulnerable vs. secure app implementations). | Python, Snort IDS, Kali Linux |
 | 📄 **Shadow AI Research** | Review paper: *"Shadow AI as an Enterprise Insider Risk: A Critical Review and Integrative Framework"*. | Academic Research, GovernAI |
-| 🛍️ **ÉFFIANEL Architecture** | Secure deployment and management of a UK-registered botanical luxury e-commerce web platform. | WordPress, Elementor, WooCommerce |
+| 🛍️ **Software development** | Secure deployment and management of a UK-registered botanical luxury e-commerce web platform. | python, Django, Mysql |
 
 <br/>
 
@@ -78,16 +77,14 @@
 <br/>
 
 ### 🎯 Current Focus
-* 📚 Completing comprehensive 4-hour daily hands-on labs in Linux, Windows, and SIEM
-* ✍️ Finalizing scholarly publication on *Post-Quantum Cryptography (PQC) and Pakistan's digital infrastructure readiness*
-* 🎓 Preparing applications for fully-funded 2027 Master's scholarships in Cybersecurity (CSC, Erasmus Mundus)
+* 📚 Completing daily hands-on labs in Linux, Windows, and SIEM
+* ✍️ Exploring the Field of Cybersecurity 
 * 🏆 Preparing for upcoming local and national cybersecurity hackathons
 
 <br/>
 
 ### 🤝 Ask Me About
 * 🔐 Blue Team Defense strategies & Log Analysis
-* 📜 Post-Quantum Cryptography implementations
 * 💻 Setting up local VM home labs for malware/network analysis
 * ✨ Botanical luxury web branding & minimalist design (#4A5D4E & #C89E66)
 
