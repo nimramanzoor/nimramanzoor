@@ -19,7 +19,7 @@
 
 <br/>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated Snake Game" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/nimramanzoor/nimramanzoor/output/github-contribution-grid-snake-dark.svg" alt="Animated Snake Game" />
 
 ### 👩‍💻 About Me
 
